@@ -391,7 +391,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays Lineage
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-everest
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true

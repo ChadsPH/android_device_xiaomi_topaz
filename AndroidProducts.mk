@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_topaz.mk
+    $(LOCAL_DIR)/everest_topaz.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_topaz-user \
-    lineage_topaz-userdebug \
-    lineage_topaz-eng
+    everest_topaz-user \
+    everest_topaz-userdebug \
+    everest_topaz-eng
