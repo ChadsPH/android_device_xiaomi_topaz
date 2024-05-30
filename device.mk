@@ -370,7 +370,7 @@ PRODUCT_PACKAGES += \
     libOmxCore
 
 # Overlays
-PRODUCT_ENFORCE_RRO_TARGETS := *
+
 
 PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
